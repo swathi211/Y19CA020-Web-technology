@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>3rd program</title>
+</head>
+<body>
+<p>image mapping</p>
+<image src="planets.jpg" width:145px height=100px akt="planets" use map:#planets>
+<map>
+<area shape="reet" coordse="0,0,182,126" alt="sun" href="sun.html">
+<area shape="circle" coordse="100,68,20" alt="earth" href="earth.html">
+<area shape="moon" coordse="120,43,35" alt="moon" href="moon.html">
+</map>
+</body>
+</html>
