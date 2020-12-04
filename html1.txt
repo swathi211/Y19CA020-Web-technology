@@ -1,0 +1,34 @@
+<html>
+<head>
+<title>cources details</title>
+</head>
+<body text="green">
+<table border="4">
+<caption>RVRJC COURSES LIST</caption>
+<tr>
+<th rowspan=3>under Gradution</th>
+</tr>
+<th align="center">Civil</th>
+<th align="center">EEE</th>
+<th align="center">Mechanical</th>
+</tr>
+<tr>
+<th align="center">css</th>
+<th align="center">it</th>
+<th align="center">ece</th>
+</tr>
+<tr>
+<th rowspan=3>post graduatuon</th>
+</tr>
+<tr>
+<th align="center">mba</th>
+<th align="center">mca</th>
+<th align="center">m.tech(cst)</th>
+</tr>
+<th align="center">m.tech(eee)/th>
+<th align="center">m.tech(me)</th>
+<th align="center">m.tech(cst)</th>
+</tr>
+</table>
+</body>
+</html>
