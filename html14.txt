@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>2nd program</title>
+</head>
+<body>
+<a href="http://www.google.com//">goole</a>
+<br>
+<a href="http://www.youtube.com//">youtube</a>
+<br>
+<hr>
+<h1> interlinking<h1>
+<ol>
+<li><a href=#intro>introduction</a></li>
+<li><a href=#desc>description</a></li>
+<li><a href=#con>conclusion</a></li>
+</ol>
+<h1><a name=intro>intoduction</a></h1>
+this is introduction part
+<h1><a name=con>conclusion</a></h1>
+this is conclusion part
+<h1><a name=desc>description</a></h1>
+this is description part
+
+ 
+</body>
+</html>
